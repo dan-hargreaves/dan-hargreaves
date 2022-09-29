@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dan-hargreaves
 - 👀 I’m interested in 
-  Working in Data Analysis and Software Engineering.
+  working in Data Analysis and Software Engineering.
 Please see my LinkedIn at www.linkedin.com/in/dan-hargreaves-53aa741b5.
 
 <!---
